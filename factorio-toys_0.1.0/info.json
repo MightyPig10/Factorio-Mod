@@ -1,0 +1,12 @@
+
+{
+  "name": "factorio-toys",
+  "version": "0.1.0",
+  "factorio_version": "0.13",
+  "title": "Factorio-Toys",
+  "author": "Mighty Pig",
+  "contact": "Message me on forums or use discussion board on mod portal",
+  "homepage": "",
+  "description": "Adds random stuff.",
+  "dependencies": ["base >= 0.13.1"]
+}
